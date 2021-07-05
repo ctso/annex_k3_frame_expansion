@@ -11,7 +11,9 @@ Once the data is collected it is analyzed using [this R script](https://gist.git
 
 ## Run 1
 **Data**: [expansion_quant_ctso_2021-07-05_17-46-11.csv](data/expansion_quant_ctso_2021-07-05_17-46-11/expansion_quant_ctso_2021-07-05_17-46-11.csv)
+
 **Frame Thermistor Location**: Top rear horizontal extrusion, in the extrusion slot, covered by a printed cover.
+
 **Calculated Gantry Factor**: 0.14
 
 ### Graphs
