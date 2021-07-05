@@ -28,3 +28,6 @@ I think there are a number of things that could be yielding results that are ver
 - The side panels may be providing enough reinforcement to resist any frame expansion.  I would expent the panels to expand a bit too, but they are basically giant heatsinks so maybe not by much.,
 
 These results are very interesting especially in comparison to my V2 (graph below for reference).  Will be interesting to see if a belted Z has any difference here.
+
+#### Voron V2 Results - For Comparison
+![comparison](data/expansion_quant_ctso_2021-07-05_17-46-11/voron_v2_comparison.png)
