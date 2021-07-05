@@ -10,9 +10,9 @@ Data is collected by homing Z every minute for 3 hours with the bed set to 105C 
 Once the data is collected it is analyzed using [this R script](https://gist.github.com/alchemyEngine/ed3fedf5bb6cc48cc236984092d0d518).  This aims to determine a gantry factor (how much to adjust Z by given 1mm of expansion in the 2020 verticals).  It also provides some cool graphs to explore the collected data.
 
 ## Run 1
-*Data*: [expansion_quant_ctso_2021-07-05_17-46-11.csv](data/expansion_quant_ctso_2021-07-05_17-46-11/expansion_quant_ctso_2021-07-05_17-46-11.csv)
-*Frame Thermistor Location*: Top rear horizontal extrusion, in the extrusion slot, covered by a printed cover.
-*Calculated Gantry Factor*: 0.14
+**Data**: [expansion_quant_ctso_2021-07-05_17-46-11.csv](data/expansion_quant_ctso_2021-07-05_17-46-11/expansion_quant_ctso_2021-07-05_17-46-11.csv)
+**Frame Thermistor Location**: Top rear horizontal extrusion, in the extrusion slot, covered by a printed cover.
+**Calculated Gantry Factor**: 0.14
 
 ### Graphs
 
